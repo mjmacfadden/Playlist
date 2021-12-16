@@ -14,7 +14,7 @@
         <div class="col-md-3 col-sm-6 my-3">
             <a href="play.php">
                 <img
-                    src="img/human-music.jpeg"
+                    src="img/human-music.gif"
                     class="img-fluid cover-art"
                     alt="Placeholder"
                 />
@@ -28,7 +28,7 @@
         </div>
         <div class="col-md-3 col-sm-6 my-3">
             <img
-                src="img/sea-shanties.png"
+                src="img/blue.jpg"
                 class="img-fluid cover-art"
                 alt="Placeholder"
             />
@@ -41,7 +41,7 @@
         </div>
         <div class="col-md-3 col-sm-6 my-3">
             <img
-                src="img/90s-jams.jpg"
+                src="img/happy-new-year.jpg"
                 class="img-fluid cover-art"
                 alt="Placeholder"
             />
@@ -54,7 +54,7 @@
         </div>
         <div class="col-md-3 col-sm-6 my-3">
             <img
-                src="img/into-the-void.jpg"
+                src="img/north-woods.jpg"
                 class="img-fluid cover-art"
                 alt="Placeholder"
             />

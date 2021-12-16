@@ -15,13 +15,13 @@
         <div class="row my-3">
             <label for="inputPlaylistTitle" class="col-sm-2 col-form-label">To:</label>
             <div class="col-sm-10">
-                <input type="text" class="form-control" />
+                <input type="text" class="form-control" placeholder="wax account"/>
             </div>
         </div>
         <div class="row mb-3">
             <label for="inputPlaylistTitle" class="col-sm-2 col-form-label">Memo:</label>
             <div class="col-sm-10">
-                <input type="text" class="form-control" />
+                <input type="text" class="form-control" placeholder="optional"/>
             </div>
         </div>
       </div>

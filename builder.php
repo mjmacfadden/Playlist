@@ -21,8 +21,9 @@
             alt="Placeholder"
           />
           <form class="mt-3" method="get" action="/play.php/">
-            <label>Select a file:</label>
-            <input type="file"><br><br>
+            <label for="formFileSm" class="form-label">Upload Cover Art</label>
+            <input class="form-control form-control-sm" id="formFileSm" type="file" />
+            
         </div>
         
         <div class="col-md-8">

@@ -6,6 +6,7 @@
 <!-- HERO SECTION-->
 <div class="px-4 py-5 text-center bg-light">
     <h1 class="display-1 mb-5">NFT Playlists</h1>
+    <p class="lead mb-5">Digital mixtapes that you really own.</p>
     <div class="col-lg-6 mx-auto">
     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <a href="builder.php">
@@ -13,7 +14,7 @@
             type="button"
             class="btn btn-light btn-lg px-4 gap-3 btn-outline-secondary"
         >
-            Make One Now
+            Mint One Now
         </button>
         </a>
     </div>
@@ -51,11 +52,13 @@
     </div>
     <div class="row text-center">
         <div class="col-md-4 col-sm-6 my-3">
-            <img
-                src="img/90s-jams.jpg"
-                class="img-fluid cover-art"
-                alt="Placeholder"
-            />
+            <a href="featured.php">
+                <img
+                    src="img/90s-jams.jpg"
+                    class="img-fluid cover-art"
+                    alt="Placeholder"
+                />
+            </a>
         </div>
         <div class="col-md-4 col-sm-6 my-3">
             <img
