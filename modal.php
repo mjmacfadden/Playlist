@@ -8,7 +8,7 @@
       </div>
       <div class="modal-body text-center">
         <img
-            src="img/human-music.jpeg"
+            src="img/human-music.gif"
             class="img-fluid cover-art"
             alt="Placeholder"
         />

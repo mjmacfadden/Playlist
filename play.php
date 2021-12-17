@@ -29,7 +29,7 @@
                 <div class="spinner-grow mx-2" role="status"></div>
                 <div class="spinner-grow mx-2" role="status"></div>
             </div>
-            <div class="embed">
+            <div class="embed px-4 px-md-0">
                 <iframe src="https://open.spotify.com/embed/playlist/31QySbrTSYRN6cxoVfOp9m?utm_source=generator&theme=0" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     
             </div>
