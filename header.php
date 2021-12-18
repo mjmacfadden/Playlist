@@ -34,7 +34,7 @@
     <!-- NAVIGATION -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">PARAFFIN <span>BETA</span></a>
+        <a class="navbar-brand" href="index.php">PARAFFIN <span>PLAYLISTS</span></a>
         <button
           class="navbar-toggler"
           type="button"
