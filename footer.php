@@ -75,6 +75,9 @@
                 Terms of Service
                 </Link>
               </li>
+              <li>
+                <a href="http://www.videezy.com">Free Stock Video by Videezy</a>
+              </li>
             </ul>
           </div>
         </div>

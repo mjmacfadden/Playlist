@@ -3,15 +3,18 @@
 ?>
 
 <!-- HERO SECTION-->
-<div class="px-4 py-5 text-center bg-light">
-    <h1 class="display-1 mb-5">NFT Playlists</h1>
-    <p class="lead mb-5">Digital mixtapes that you really own.</p>
+<div class="px-4 py-5 text-center video-container">
+    <video id="background-video" autoplay loop muted poster="">
+      <source src="img/header2.mp4" type="video/mp4">
+    </video>
+    <h1 class="display-1 mt-3 mb-2 text-light text-shadow-md">Paraffin Playlists</h1>
+    <p class="lead mb-5 fw-bold">Mixes that you really own on the WAX Blockchain.</p>
     <div class="col-lg-6 mx-auto">
     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <a href="builder.php">
         <button
             type="button"
-            class="btn btn-light btn-lg px-4 gap-3 btn-outline-secondary"
+            class="btn btn-light btn-lg px-4 gap-3 btn-outline-secondary semi-transparent"
         >
             Mint One Now
         </button>
