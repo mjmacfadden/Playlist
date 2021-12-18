@@ -4,7 +4,7 @@
 
 <!-- HERO SECTION-->
 <div class="px-4 py-5 text-center video-container">
-    <video id="background-video" autoplay loop muted poster="">
+    <video id="background-video" autoplay loop muted playsinline poster="">
       <source src="img/header4.mp4" type="video/mp4">
     </video>
     <h1 class="display-1 mt-3 mb-2 text-light text-shadow-md">Paraffin Playlists</h1>
