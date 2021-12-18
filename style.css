@@ -6,12 +6,27 @@ GLOBAL
 .btn {
   border-radius: 0;
 }
-.pointer{
-    cursor:pointer;
+.pointer {
+  cursor: pointer;
 }
-.semi-transparent{
-  opacity:.5;
+.semi-transparent {
+  opacity: 0.5;
 }
+.bg-salmon {
+  background-color: #f37165;
+}
+.btn-primary {
+  background-color: #f37165;
+  border-color: #fc5c4e;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #fc5c4e;
+  border-color: #fc5c4e;
+}
+
 /*
 =================================================
 TYPOGRAPHY
@@ -19,22 +34,25 @@ TYPOGRAPHY
 */
 body {
   font-family: "Roboto", sans-serif;
-  font-weight:100;
+  font-weight: 100;
 }
 h1,
 h2,
-h3{
+h3 {
   font-family: "Abril Fatface", sans-serif;
   font-weight: 400;
 }
-h4{
-  font-weight:700;
+h4 {
+  font-weight: 700;
 }
-h5{
-  font-weight:500;
+h5 {
+  font-weight: 500;
 }
-.text-shadow-md{
-  text-shadow: 1px 2px 5px rgba(0,0,0,0.6);
+.text-shadow-sm {
+  text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.4);
+}
+.text-shadow-md {
+  text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.6);
 }
 /*
 =================================================
@@ -44,13 +62,14 @@ NAVBAR
 .navbar-brand {
   font-family: "Abril Fatface", cursive;
   font-size: 28px;
+  color: #f37165 !important;
 }
 
 .navbar-brand span {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 300;
-  color: #777;
+  color: #f1f1f1;
 }
 
 .navbar li {
@@ -64,21 +83,22 @@ HERO
 =================================================
 */
 .btn-outline-secondary {
-  color: #6c757d;
-  border-color: #6c757d;
+  color: #fff;
+  border-color: #fc5c4e;
   text-transform: uppercase;
+  background: #f37165;
 }
 .btn-outline-secondary:hover {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #fc5c4e;
+  border-color: #fc5c4e;
 }
-.wax-logo{
-  filter:saturate(0%) opacity(50%);
-  max-width:100px;
+.wax-logo {
+  filter: saturate(0%) opacity(75%);
+  max-width: 100px;
 }
-.video-container{
-  position:relative;
+.video-container {
+  position: relative;
 }
 #background-video {
   width: 100%;
@@ -97,12 +117,19 @@ HERO
 HOW TO
 =================================================
 */
-.how-to i{
-  font-size:48px;
+.how-to i {
+  font-size: 48px;
+  color: #000;
 }
-.how-to a{
-  color:#FFF;
-  text-decoration:none;
+.how-to h5 {
+  color: #000;
+}
+.how-to a {
+  color: #fff;
+  text-decoration: none;
+}
+.how-to p {
+  font-weight: 300;
 }
 
 /*
@@ -111,15 +138,15 @@ BUILDER
 =================================================
 */
 .cover-art {
-  max-height:400px;
+  max-height: 400px;
 }
-label{
-  font-weight:500;
+label {
+  font-weight: 500;
 }
-.message{
-  height:200px;
+.message {
+  height: 200px;
 }
-::placeholder{
+::placeholder {
   font-weight: 100;
 }
 
@@ -128,41 +155,41 @@ label{
 BUILDER
 =================================================
 */
-.player{
-    position:relative;
-    min-height:400px;
+.player {
+  position: relative;
+  min-height: 400px;
 }
-.loading{
-    position:absolute;
-    z-index:0;
-    width:100%;
-    height:100%;
-    padding-top:150px;
+.loading {
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  padding-top: 150px;
 }
-.embed{
-    position:absolute;
-    z-index:1;
-    width:100%;
-    height:100%;
-    min-height:200px;
-    max-height:400px;
+.embed {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  min-height: 200px;
+  max-height: 400px;
 }
 /*
 =================================================
 PLAYLIST
 =================================================
 */
-.spotify{
-    color:#1DB954;
+.spotify {
+  color: #1db954;
 }
-.spotify:hover{
-    color:#179644;
+.spotify:hover {
+  color: #179644;
 }
-.youtube{
-    color:#FF0000;
+.youtube {
+  color: #ff0000;
 }
-.youtube:hover{
-    color:#db0000;
+.youtube:hover {
+  color: #db0000;
 }
 
 /*

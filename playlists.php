@@ -3,8 +3,8 @@
 ?>
 
 <!-- HERO SECTION-->
-<div class="px-4 py-5 text-center bg-light">
-    <h3 class="display-1 mb-5">Playlists</h3>
+<div class="px-5 py-5 text-light bg-salmon">
+    <h1 class="display-4 mb-5 text-center text-md-start">Playlists</h3>
 </div>
 
 

@@ -7,14 +7,14 @@
     <video id="background-video" autoplay loop muted playsinline poster="">
       <source src="img/header.mp4" type="video/mp4">
     </video>
-    <h1 class="display-1 mt-3 mb-2 text-light text-shadow-md">Paraffin Playlists</h1>
-    <p class="lead mb-5 fw-bold">Mixes that you really own on the WAX Blockchain.</p>
+    <h1 class="display-1 mt-3 mb-2 text-dark">NFT Playlists</h1>
+    <p class="lead mb-5 fw-bold text-light text-shadow-sm ">Mixes that you really own on the WAX Blockchain.</p>
     <div class="col-lg-6 mx-auto">
     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <a href="builder.php">
         <button
             type="button"
-            class="btn btn-light btn-lg px-4 gap-3 btn-outline-secondary semi-transparent"
+            class="btn btn-light btn-lg px-4 gap-3 btn-outline-secondary"
         >
             Mint One Now
         </button>
@@ -25,7 +25,7 @@
 </div>
 
 <!-- HOW TO -->
-<div class="bg-dark text-light py-5">
+<div class="bg-salmon text-light py-5">
     <div class="container how-to py-5">
     <div class="row text-center">
         <div class="col-sm-4 px-5">

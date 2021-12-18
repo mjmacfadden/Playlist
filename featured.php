@@ -3,8 +3,8 @@
 ?>
 
 <!-- HERO SECTION-->
-<div class="px-4 py-5 text-center bg-light">
-    <h1 class="display-1 mb-5">90s Jams</h1>
+<div class="px-5 py-5 text-light bg-salmon">
+    <h1 class="display-4 mb-5 text-center text-md-start">90s Jams</h1>
 </div>
 
 
@@ -17,7 +17,6 @@
                 alt="Placeholder"
             />
             <div class="py-2 text-end">
-                <i class="bi bi-arrow-left-right pointer" data-bs-toggle="modal" data-bs-target="#exampleModal"></i>   
                 <a href="https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l?si=NsIdiTIrQ3-wGksnOLwsnQ" target="_blank" class="spotify">
                     <i class="bi bi-spotify" alt="Listen on Spotify" title="Listen on Spotify"></i>
                 </a>
