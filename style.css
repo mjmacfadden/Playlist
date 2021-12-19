@@ -119,17 +119,18 @@ HOW TO
 */
 .how-to i {
   font-size: 48px;
-  color: #000;
+  color: #fff;
 }
 .how-to h5 {
-  color: #000;
+  color: #fff;
 }
 .how-to a {
-  color: #fff;
+  color: #000;
   text-decoration: none;
 }
 .how-to p {
   font-weight: 300;
+  color: #000;
 }
 
 /*
